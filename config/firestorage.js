@@ -7,6 +7,7 @@ import ReactNativeAsyncStorage from "@react-native-async-storage/async-storage";
 // Configurações do Firebase
 
 const firebaseConfig = {
+    // Adicione as variáves conforme gerado na tela do projeto Firebase
     apiKey: "",
     authDomain: "",
     projectId: "",
